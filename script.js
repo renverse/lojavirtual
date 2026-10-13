@@ -1,1 +1,2 @@
-console.log("Script loaded successfully!");
+let nomes = ["Alice", "Bob", "Charlie", "David", "Eve"];
+console.log(nomes);
